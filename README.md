@@ -1,17 +1,3 @@
-## Quick Start 
-
-#### 联系作者
-
-十三的java学习交流QQ群:```881582471```，```658365129(已满)```
-
-#### 宣传
-
-十三近期于CSDN上传了一份自己制作的达人课课程,感兴趣的朋友可以看一下：
-
-* [x] [GitChat达人课-SSM搭建精美实用的管理系统](https://gitbook.cn/gitchat/column/5b4dae389bcda53d07056bc9)
-
-![gitchat](https://raw.githubusercontent.com/ZHENFENG13/resource/master/images/2018-07-19/gitchat.png)
-
 ##### 项目简介
 
 **ssm系列**<br />
